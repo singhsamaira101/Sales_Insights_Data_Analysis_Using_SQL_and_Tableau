@@ -11,4 +11,4 @@ An automated dashboard providing quick & latest sales insights in order to suppo
 
 **Tableau Dashboard for Revenue Analysis:**
 
-<img width="1440" alt="Revenue_Analysis" src="https://github.com/singhsamaira101/Sales_Insights_Data_Analysis_Using_SQL_and_Tableau/assets/67760094/ae691e86-37c4-471c-a417-12a87622d53b">
+<img width="1440" alt="Revenue_Analysis" src="https://github.com/singhsamaira101/Sales_Insights_Data_Analysis_Using_SQL_and_Tableau/assets/67760094/8195580f-7813-411e-8f6f-2a8f6c67e3f5">
